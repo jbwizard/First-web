@@ -1,0 +1,39 @@
+h1{
+    font-size: 50px;
+    color:beige
+}
+
+body{
+    background-color: rgb(245, 245, 220);
+    font-family: monospace;
+    text-align: center;
+    font-size: medium;
+}
+
+header{
+    background-color: black;
+    color: beige;
+    padding-block: 30px;    
+}
+
+nav{
+
+}
+
+button{
+    font-family: monospace;
+    font-size: medium;
+    background: rgb(0, 0, 0);
+    color: beige;
+    border-radius: 10px;
+    border-color: black;
+    padding: 5px 10px 5px 10px
+}
+
+footer{
+    background-color: black;
+    color:beige;
+    text-align: left;
+    padding: 70px 40px 20px 40px
+
+}
